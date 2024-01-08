@@ -40,3 +40,7 @@ Take the input, run a specific algorithm, get a specific output.
 ## Time complexity
 n, n/2, log2n. Phonebook example.
 Correct algorithms are good, well designed ones are great.
+
+
+# Assignment
+Spent a lot of time on scratch 2+ years ago, no point me making a new program.
