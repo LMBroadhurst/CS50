@@ -29,3 +29,8 @@ Can also happen if you have a float that needs 64bits and you cast it into a 32b
 
 ## Floating point imprecision
 e.g. representing something with 20 decimal places with a 32bit slot results in floating point imprecision.
+
+# Assignments
+Have to go for hardest ones.
+Hard Mario: https://cs50.harvard.edu/x/2024/psets/1/mario/more/
+Hard 3rd problem (credit): https://cs50.harvard.edu/x/2024/psets/1/credit/
