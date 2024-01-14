@@ -21,4 +21,6 @@ If not included, compiler would error out.
 e.g. the #include <stdbool.h> directive contains prototypes and related code to booleans.
 e.g. the #include <stdid.h> directive contains prototypes and related code to scanf, printf, etc.
 
+19.10
+
 ## Cryptography
