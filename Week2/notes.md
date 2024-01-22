@@ -46,9 +46,21 @@ Strings are terminated by special value (all bytes at 0) that tells the computer
 Every string = n + 1 bytes/
 
 ## Command Line Arguments
+Clang (C Compiler), cd, mv, etc all take command line arguments.
+e.g. cd /Users, mv ./file.txt ./folder/file.txt
 
-## Cowsay
+Can replace void in C main function with int argc, string argv[]...
 
-## Exit Status
+```C
+int main(int argc, string argv[]) {
+    ...
+}
+```
 
 ## Cryptography
+Sending and receiving information securely.
+
+Encryption is the process of scrambling the information.
+text -> cipher -> ciphertext
+
+Ciphers often take in a key, as well as the text.
